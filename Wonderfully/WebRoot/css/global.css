@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	align:center;
+	background-color:rgba(217,217,217,0.61);
+}
+.global{
+	width: 1000px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: auto;
+    position: absolute;
+    top: 15px;
+    left: 0px;
+    right: 0px;
+}
+.login{
+	text-align: center;
+	border-radius: 2px;
+	background-color: #B9CBFF;
+	width: 300px;
+}
+.login a:hover{
+	color:#ff8080;
+}
