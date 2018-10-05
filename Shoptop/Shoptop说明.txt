@@ -1,0 +1,3 @@
+Shoptop说明
+作用：一个电子商场的模版
+框架：Sqring MVC + Sqring + MyBatis + Redis
